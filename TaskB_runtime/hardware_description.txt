@@ -1,0 +1,6 @@
+CPU: Intel Xeon Platinum 8180 @ 2.50 GHz — 56 physical cores (2×28), 112 threads
+Memory: 1.0 TiB RAM (≈ 1024 GiB)
+GPU: NVIDIA GeForce RTX 3090 — 24 GiB (24576 MiB), driver 560.35.03
+OS: Ubuntu 22.04 LTS, CUDA 12.6
+
+Single RTX 3090 used for training and inference.

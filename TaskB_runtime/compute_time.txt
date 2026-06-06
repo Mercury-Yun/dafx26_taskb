@@ -1,0 +1,9 @@
+total_compute_time_hours: 14.7
+total_compute_time_seconds: 52920
+
+training_breakdown:
+  epochs_0-30:   4.7 hours
+  epochs_30-90:  8.5 hours
+  epochs_90-100: 1.5 hours
+
+method: iterative (neural network training, 100 epochs)
